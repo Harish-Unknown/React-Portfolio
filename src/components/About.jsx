@@ -8,11 +8,11 @@ const About = () => {
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
                 </div>
                 <p className='text-xl mt-20'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis ipsa libero fugiat iste! Soluta itaque nulla quae incidunt quos possimus nesciunt numquam, nemo eveniet vel earum cum obcaecati pariatur, deserunt optio distinctio. Modi repellat unde vitae, minima culpa quod veniam aliquid molestiae id, delectus iusto exercitationem natus cupiditate veritatis asperiores.
+                As a final-year student and full-stack developer, I am deeply committed to honing my skills in React, Tailwind CSS, HTML, CSS, JavaScript, and Node.js. With a creative flair and a passion for problem-solving, I strive to build intuitive and visually appealing web solutions. Eager to embark on new challenges, I approach each project with enthusiasm and a determination to deliver high-quality results.
                 </p>
                 <br />
                 <p className='text-xl'>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae blanditiis ipsum et, doloribus tempora laudantium? Itaque earum animi blanditiis possimus officiis eius asperiores voluptatem dolorem libero aliquam culpa vero iusto ipsam, dicta omnis ducimus atque consectetur nostrum? Porro, nam cumque pariatur, tempore eius et architecto temporibus amet dicta, quos ullam?
+                Driven by a relentless pursuit of excellence, I immerse myself in the latest web development trends and techniques. With a solid foundation in both frontend and backend technologies, I thrive in dynamic environments where I can contribute my expertise to impactful projects. My goal is to continuously expand my knowledge and expertise, pushing the boundaries of what can be achieved in the ever-evolving field of web development.
                 </p>
             </div>
         </div>
