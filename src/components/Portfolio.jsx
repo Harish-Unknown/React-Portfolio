@@ -12,7 +12,7 @@ const Portfolio = () => {
             id: 1,
             src: portfolioOne,
             href: 'https://github.com/Harish-Unknown/Print-Wear',
-            link: 'https://printwear-demo-1.netlify.app/'
+            link: 'https://printwear-final.netlify.app/'
         },
         {
             id: 2,
